@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech ,auto,and programming 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me arshaq2265@gmail.com
+- 📫 How to reach me ettatuarshaqoff@gmail.com
 
 <!---
 Ettatu-Arshaq/Ettatu-Arshaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
